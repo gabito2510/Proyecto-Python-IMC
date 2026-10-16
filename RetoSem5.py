@@ -17,7 +17,6 @@ else:
 x = 5
 y = -3
 
-
 # Estructura condicional para determinar el cuadrante
 if x > 0 and y > 0:
     print("El punto está en el Cuadrante I")
