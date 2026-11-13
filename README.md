@@ -1,13 +1,9 @@
 ========================================================================
 
 Hola !!! Soy Gabriel Chan.
-Este es mi primer proyecto de Python.
-El cual es una calculadora IMC, donde se capturan los datos de usuario.
-Nombre.
-Edad.
-Peso.
-Altura.
-La calculadora con estos datos realiza la operacion solicitada.
-El resultado de dicha operacion se imprime en pantalla en un resumen.
+Este es proyectoM2 de Python.
+Colección de datos (Lista de diccionarios que simulan usuarios registrados con credenciales y datos de ubicación)
+Valida 3 intentos de acceso, al no validar las crdenciales se cierra.
+
 
 ========================================================================
